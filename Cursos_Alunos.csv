@@ -1,0 +1,11 @@
+Cod;Cursos;Horario;id_Aluno;Pagamento;P1;P2;P3;P4;Media;Situacao
+curso01;Basico;Manha;1;PAGO;6,0;4,0;5,0;7,0;5,5;REPROVADO
+curso02;Intermediario;Manha;2;EM DEBITO;8,5;6,0;7,0;9,0;7,6;APROVADO
+curso01;Basico;Manha;3;PAGO;7,0;6,0;6,5;7,5;6,8;REPROVADO
+curso02;Intermediario;Tarde;4;EM DEBITO;6,5;7,0;7,5;8,0;7,3;APROVADO
+curso02;Intermediario;Tarde;5;PAGO;10,0;9,0;9,5;9,5;9,5;APROVADO
+curso03;Avancado;Noite;6;EM DEBITO;9,0;9,3;9,0;10,0;9,3;APROVADO
+curso03;Avancado;Manha;7;PAGO;9,5;9,2;9,5;10,0;9,6;APROVADO
+curso02;Intermediario;Tarde;8;PAGO;7,5;8,3;8,7;8,0;8,1;APROVADO
+curso02;Intermediario;Noite;9;EM DEBITO;0.0;0.0;0.0;0.0;0.0;APROVADO
+curso03;Avancado;Manha;10;EM DEBITO;7.5;8.3;6.0;8.7;7,6;APROVADO
